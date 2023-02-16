@@ -10,7 +10,8 @@ Description
 
 
 Visuals
-    image.png
+    ![image](https://user-images.githubusercontent.com/107730204/219467618-a35ffd82-b4ce-474d-9769-ed211215ab6a.png)
+
 
 
 Technologies Used   
